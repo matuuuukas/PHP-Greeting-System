@@ -1,6 +1,3 @@
 # greetingsystem
 
-Script runs everyday:
-# crontab -l 
-# 1* Minute ; 2* Hour ; 3* day of month ; 4*  month 5* ; day of week 
-0 7 * * * php .../includes/send_daily_mail.php
+Simple PHP greeting system which runs on linux server by running .PHP scripts to send the emails to different recipients or mail groups. 
